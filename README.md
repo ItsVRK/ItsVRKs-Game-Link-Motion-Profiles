@@ -5,6 +5,15 @@ Motion profiles for Game Link motion simulator software
 
 "Einstein, in the special theory of relativity, proved that different observers, in different states of motion, see different realities." Leonard Susskind
 
+## Changelog
+
+2025-09-07 MSFS v2.0 profiles added, replacing v1.0:
+
+- Step change improvement in motion feel "it's a night and day difference"
+- More accurate vibration for takeoff and landing
+- In flight vibration removed to stop oscillation on pitch axis while flying, suggest using bass haptics instead
+
+
 ## Support
 
 - Patreon: https://www.patreon.com/ItsVRK
