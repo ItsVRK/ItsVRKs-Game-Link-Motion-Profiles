@@ -13,6 +13,7 @@ Motion profiles for Game Link motion simulator software
 - More accurate vibration for takeoff and landing
 - In flight vibration removed to stop oscillation on pitch axis while flying, suggest using bass haptics instead
 
+2025-09-08 XPlane V1.0 profiles added
 
 ## Support
 
