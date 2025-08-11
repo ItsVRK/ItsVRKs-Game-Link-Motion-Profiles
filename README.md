@@ -7,13 +7,20 @@ Motion profiles for Game Link motion simulator software
 
 ## Changelog
 
+2025-09-11 MSFS V3.7 profiles added
+
+- Reinstated engine vibration during flight
+- Ground vibration source for engined craft uses engine1_rpm
+- Ground vibration source for non-engined craft uses ground_velocity
+- Reinstate proper handling for balanced turns that was accidentally removed in v2.0
+
+2025-09-08 XPlane V1.0 profiles added
+
 2025-09-07 MSFS v2.0 profiles added, replacing v1.0:
 
 - Step change improvement in motion feel "it's a night and day difference"
 - More accurate vibration for takeoff and landing
 - In flight vibration removed to stop oscillation on pitch axis while flying, suggest using bass haptics instead
-
-2025-09-08 XPlane V1.0 profiles added
 
 ## Support
 
