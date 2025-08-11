@@ -12,7 +12,7 @@ Motion profiles for Game Link motion simulator software
 - Reinstated engine vibration during flight
 - Ground vibration source for engined craft uses engine1_rpm
 - Ground vibration source for non-engined craft uses ground_velocity
-- Reinstate proper handling for balanced turns that was accidentally removed in v2.0
+- Reinstate proper handling for balanced manoeuvres that was accidentally removed in v2.0
 
 2025-09-08 XPlane V1.0 profiles added
 
