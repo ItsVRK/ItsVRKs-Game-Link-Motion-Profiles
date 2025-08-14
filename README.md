@@ -7,6 +7,10 @@ Motion profiles for Game Link motion simulator software
 
 ## Changelog
 
+2025-09-14 MSFS V3.9 profiles added
+
+- Fix erroneous ground vibration setting that only affected craft without engine
+
 2025-09-14 MSFS V3.8 profiles added
 
 - Inverted roll axis input so forces match what you would feel in real flight
