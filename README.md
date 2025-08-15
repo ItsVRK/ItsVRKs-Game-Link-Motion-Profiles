@@ -7,6 +7,10 @@ Motion profiles for Game Link motion simulator software
 
 ## Changelog
 
+2025-09-16 MSFS V4.0 profiles added
+
+- Improve ground yaw sensation
+
 2025-09-14 MSFS V3.9 profiles added
 
 - Fix erroneous ground vibration setting that only affected craft without engine
