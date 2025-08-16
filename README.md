@@ -5,6 +5,14 @@ Motion profiles for Game Link motion simulator software
 
 "Einstein, in the special theory of relativity, proved that different observers, in different states of motion, see different realities." Leonard Susskind
 
+## How to use
+
+The simplest way to download these profiles is grab them all at once, to do this click on the green `Code` button at the towards the top right of github page, and select the `Download zip` link at the bottom of the popup.
+
+Extract the zip on your computer.
+
+In Game link open the relevant game, click `Motion Profile` menu item on the righthand sidebar, then click the `Import` icon (*box with arrow pointing inside it*),in the file selector that opens browse to where you extracted my profiles and select the relevant profile.
+
 ## Changelog
 
 2025-09-16 MSFS V4.0 profiles added
