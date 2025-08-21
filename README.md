@@ -15,6 +15,10 @@ In Game link open the relevant game, click `Motion Profile` menu item on the rig
 
 ## Changelog
 
+2025-09-21 MSFS V5.0 profiles added
+
+- Added gravity effects for throttle up and down during flight
+
 2025-09-16 MSFS V4.0 profiles added
 
 - Improve ground yaw sensation
