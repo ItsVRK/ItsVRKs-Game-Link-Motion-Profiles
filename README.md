@@ -1,6 +1,6 @@
 ## Support the stuff I do
 
-- Buy me a coffee: https://www.patreon.com/ItsVRK
+- Buy me a coffee: https://buymeacoffee.com/ItsVRK
 
 # ItsVRKs-Game-Link-Motion-Profiles
 Motion profiles for Game Link motion simulator software
