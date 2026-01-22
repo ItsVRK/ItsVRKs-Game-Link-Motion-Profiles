@@ -1,3 +1,7 @@
+## Support the stuff I do
+
+- Buy me a coffee: https://www.patreon.com/ItsVRK
+
 # ItsVRKs-Game-Link-Motion-Profiles
 Motion profiles for Game Link motion simulator software
 
@@ -45,8 +49,3 @@ In Game link open the relevant game, click `Motion Profile` menu item on the rig
 - Step change improvement in motion feel "it's a night and day difference"
 - More accurate vibration for takeoff and landing
 - In flight vibration removed to stop oscillation on pitch axis while flying, suggest using bass haptics instead
-
-## Support
-
-- Patreon: https://www.patreon.com/ItsVRK
-- Donate via Paypal: https://paypal.me/VRKforReal
